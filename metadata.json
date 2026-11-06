@@ -1,0 +1,6 @@
+{
+  "name": "Death Battle",
+  "description": "AI-Powered Fictional Character Battle Analysis & Social Community Platform with 17 Power Tiers, 4-Round Simulations, Novel Stories, and Audio Narration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
